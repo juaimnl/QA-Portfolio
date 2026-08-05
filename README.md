@@ -8,21 +8,20 @@ The goal of this portfolio is to demonstrate my understanding of software testin
 ## Repository Structure
 
 QA-Portfolio/
-│
-├── Manual-Testing/
-│   ├── Test-Cases/
-│   ├── Bug-Reports/
-│   ├── Smoke-Testing/
-│   ├── Regression-Testing/
-│   ├── Sanity-Testing/
-│   └── Exploratory-Testing/
-│
-├── API-Testing/
-│
-├── Jira/
-│
-└── Automation/
-    └── Robot-Framework/
+
+Manual-Testing/
+    Test-Cases/
+    Bug-Reports/
+    Smoke-Testing/
+    Regression-Testing/
+    Sanity-Testing/
+    Exploratory-Testing/
+
+API-Testing/
+
+Jira/
+    Automation/
+        Robot-Framework/
 
 ## Tools
 
@@ -43,16 +42,9 @@ I continuously update this repository by:
 - Practicing bug reporting
 - Learning API testing
 - Building Robot Framework automation projects
-- Improving documentation based on QA best practices
 
 
 ## Disclaimer
 
 This portfolio is created for educational and demonstration purposes using publicly available demo applications. Any sample bug reports or Jira issues are intended solely to showcase QA documentation and testing skills.
 
-
-## Contact
-
-Feel free to explore the repository and provide feedback or suggestions for improvement.
-
-Thank you for visiting my QA Portfolio!
